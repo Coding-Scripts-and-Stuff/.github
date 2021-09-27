@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is python scripts and stuff. Where me and my friends make python scripts and upload them 
-If you want to join then join <a href = "https://discord.gg/qsXxAYv4XV"https://discord.gg/qsXxAYv4XVtyle = "color:gray;text-size:150%">this</a> 
+If you want to join then join <a href = "https://discord.gg/qsXxAYv4XV" style = "color:gray;text-size:150%">this</a> 
 
 <h1>Our Repositories</h1>
 
