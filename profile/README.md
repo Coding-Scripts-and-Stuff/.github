@@ -3,7 +3,7 @@
 This is python scripts and stuff. Where me and my friends make python scripts and upload them
 
 <h1>Our Repositories</h1>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Python-Scripts-and-Stuff&&theme=radical&repo=virus)](https://github.com/Python-Scripts-and-Stuff/virus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vackyton&&theme=radical&repo=virus)](https://github.com/vackyton/virus)
 
 <h2 style = "text-align:center;color:aqua;">Members</h2>
 
