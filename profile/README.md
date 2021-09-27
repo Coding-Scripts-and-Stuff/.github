@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is python scripts and stuff. Where me and my friends make python scripts and upload them
+This is python scripts and stuff. Where me and my friends make python scripts and upload them if 
 
 <h1>Our Repositories</h1>
 
