@@ -4,7 +4,9 @@ This is python scripts and stuff. Where me and my friends make python scripts an
 
 <h1>Our Repositories</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Python-Scripts-and-Stuff&&theme=radical&repo=virus)(https://github.com/Python-Scripts-and-Stuff/virus)
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=Python-Scripts-and-Stuff&&theme=radical&repo=virus"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=Python-Scripts-and-Stuff&&theme=radical&repo=virus" alt = "virus repo"></a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Python-Scripts-and-Stuff&&theme=radical&repo=virus)
 
 <h2 style = "text-align:center;color:aqua;">Members</h2>
 
