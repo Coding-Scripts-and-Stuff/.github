@@ -9,5 +9,5 @@ If you want to join then join <a href = "https://discord.gg/qsXxAYv4XV" style = 
 <a href="https://github.com/Python-Scripts-and-Stuff/Kahoot-Nuker-Attempt"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=Python-Scripts-and-Stuff&&theme=radical&repo=Kahoot-Nuker-Attempt"></a>
 <h2 style = "text-align:center;color:aqua;">Members</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vackyton&theme=radical&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigboytaco&theme=radical&show_icons=true)
+<a href = "https://github.com/vackyton"> <img src = "https://github-readme-stats.vercel.app/api?username=vackyton&theme=radical&show_icons=true"></a>
+<a href = "https://github.com/bigboytaco"><img src = "https://github-readme-stats.vercel.app/api?username=bigboytaco&theme=radical&show_icons=true"></a>
