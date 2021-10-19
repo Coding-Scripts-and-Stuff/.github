@@ -7,6 +7,8 @@ If you want to join then join <a href = "https://discord.gg/qsXxAYv4XV" style = 
 
 <a href="https://github.com/coding-scripts-and-stuff/virus"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=coding-scripts-and-stuff&&theme=radical&repo=virus"></a>
 <a href="https://github.com/coding-scripts-and-stuff/Kahoot-Nuker-Attempt"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=coding-scripts-and-stuff&&theme=radical&repo=Kahoot-Nuker-Attempt"></a>
+<a href="https://github.com/coding-scripts-and-stuff/Get-yo-Ip"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=coding-scripts-and-stuff&&theme=radical&repo=Get-yo-Ip"></a>
+
 <h2 style = "text-align:center;color:aqua;">Members</h2>
 
 <a href = "https://github.com/vackyton"> <img src = "https://github-readme-stats.vercel.app/api?username=vackyton&theme=radical&show_icons=true"></a>
